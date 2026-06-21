@@ -1,0 +1,14 @@
+/bin/
+/dist/
+coverage.out
+coverage.html
+*.test
+/demo-work/
+.plait/
+*.state.json.lock
+.DS_Store
+plait.state.json
+plait.state.json.backup
+plait.state.json.tmp-*
+*.plan.json
+examples/*/out/
